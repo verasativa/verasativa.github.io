@@ -15,4 +15,4 @@ Soy una científica de datos con experticia en deep learning, y en el ecosistema
 I'm a data Scientist with expertise in deep learning, and python science and machine learning ecosystem. I have 15 years experience in tech entrepreneurship and development. And I'm passioned about computer vision and natural language processing models.
 
 
-````hola@verasativa.com````
+````hola@verasativa.com```` 
