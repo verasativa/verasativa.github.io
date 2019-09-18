@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Por qué construir un corpus balanceado"
-date:   2019-09-17 13:15:22 -0400
+date:   2019-09-17 13:15 -0400+
+image: "/assets/img/posts/og_palabras.png"
 tags: IA NLP
 ---
 ## ¿Qué es NLP / procesamiento de lenguaje natural?

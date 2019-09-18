@@ -26,7 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data scientist, researcher and feminist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
+og_default_img: /assets/img/social.jpg
 github_username:  veras
 timezone: Americas/Santiago
 excerpt_separator: <!--more-->
