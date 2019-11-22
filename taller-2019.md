@@ -4,6 +4,8 @@ title: Escuela casera de ciencias de datos con metodología _student-chosen-data
 image: "/assets/img/taller-2019.jpg"
 description: Aprende o profundiza ciencia de datos, trabajando con los datos y problemas que te interesan a ti.
 permalink: /taller-2019/
+redirect_from:
+ - /TALLER-2019/
 ---
 
 ![flyer](/assets/img/taller-2019.jpg)
