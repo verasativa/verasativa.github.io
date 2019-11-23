@@ -33,6 +33,7 @@ Habrá becas: 50% estudiantes, cesantes u otros casos especiales.
 ### Duración
 La idea es que el taller funcione como una escuela permanente. El tiempo mínimo de permanencia es de tres meses. 
 
+
 ## Objetivos/metodología
 
 ### Trabajo práctico
@@ -52,6 +53,7 @@ Para este objetivo, utilizaremos los capítulos 2, 3 y 5 al 11 de [Python for Da
 ### Foco en python 3
 Mi formación es en python, por tanto si quieres profundizar tu R, poco te podré ayudar con el código.
 
+
 ## Requisitos
 
 ### Leer en inglés 
@@ -63,12 +65,14 @@ Computador con jupyter lab instalado (te mandaré un link a un tutorial de cómo
 ### Compromiso  
 Compromiso a asistir a todas las sesiones, estudiar y observar los lineamientos éticos de nuestro trabajo.  
 
+
 ## Lineamientos éticos
 En el trabajo con datos, observaremos siempre las implicancias morales de nuestros actos, atenderemos a los sesgos culturales que podríamos estar amplificando y cuidaremos la privacidad de las personas. 
 
 La empresa donde trabajo (donde se llevará a cabo el taller) tiene como principio no identificar nunca a los individuos detrás de los datos. 
 
 Me gusta el motto _don’t be evil_ y tengo a [Cathy O'Neil](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) en mi salvapantallas.
+
 
 ## Postula 
 Te invito a tomarte unos minutos completando el formulario de postulación. 
