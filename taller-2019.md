@@ -34,6 +34,7 @@ Habrá becas: 50% estudiantes, cesantes u otros casos especiales.
 La idea es que el taller funcione como una escuela permanente. El tiempo mínimo de permanencia es de tres meses. 
 
 
+
 ## Objetivos/metodología
 
 ### Trabajo práctico
@@ -43,7 +44,7 @@ En mi experiencia, se aprende mejor haciendo (aunque haya que detenerse a estudi
 Trabajar en un grupo pequeño (4 a 6 estudiantes idealmente) permitirá que cada unx avance desde su nivel y a su propio ritmo. 
 Si tienes muchas ganas de aprender eres bienvenidx. 
 
-Si eres novat@, puedes empezar aprendiendo pandas (la herramienta básica de Data science) y si, en cambio, eres experimentadx y lo que quieres es superar superar el estado del arte implementando GPT-2 en español usando un cluster multi-GPU, podemos trabajar junt@s también. 
+Si eres novat@, puedes empezar aprendiendo pandas (la herramienta básica de Data science) y si, en cambio, eres experimentadx y lo que quieres es superar el estado del arte implementando GPT-2 en español usando un cluster multi-GPU, podemos trabajar junt@s también. 
 
 ### Currículo mínimo
 El objetivo, para lxs novatxs, es que, antes de completar los primeros tres meses, se sientan cómodxs cargando y analizando datos arbitrarios (para que no les tengan miedo a los datos nuevos), e idealmente creando modelos a partir de éstos. 
@@ -52,6 +53,7 @@ Para este objetivo, utilizaremos los capítulos 2, 3 y 5 al 11 de [Python for Da
 
 ### Foco en python 3
 Mi formación es en python, por tanto si quieres profundizar tu R, poco te podré ayudar con el código.
+
 
 
 ## Requisitos
@@ -72,6 +74,7 @@ En el trabajo con datos, observaremos siempre las implicancias morales de nuestr
 La empresa donde trabajo (donde se llevará a cabo el taller) tiene como principio no identificar nunca a los individuos detrás de los datos. 
 
 Me gusta el motto _don’t be evil_ y tengo a [Cathy O'Neil](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) en mi salvapantallas.
+
 
 
 ## Postula 
