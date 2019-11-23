@@ -42,9 +42,8 @@ En mi experiencia, se aprende mejor haciendo (aunque haya que detenerse a estudi
 
 ### Pocas personas trabajando, cada una en su nivel
 Trabajar en un grupo pequeño (4 a 6 estudiantes idealmente) permitirá que cada unx avance desde su nivel y a su propio ritmo. 
-Si tienes muchas ganas de aprender eres bienvenidx. 
 
-Si eres novat@, puedes empezar aprendiendo pandas (la herramienta básica de Data science) y si, en cambio, eres experimentadx y lo que quieres es superar el estado del arte implementando GPT-2 en español usando un cluster multi-GPU, podemos trabajar junt@s también. 
+Si tienes muchas ganas de aprender eres bienvenidx. Si eres novat@, puedes empezar aprendiendo pandas (la herramienta básica de Data science) y si, en cambio, eres experimentadx y lo que quieres es superar el estado del arte implementando GPT-2 en español usando un cluster multi-GPU, podemos trabajar junt@s también. 
 
 ### Currículo mínimo
 El objetivo, para lxs novatxs, es que, antes de completar los primeros tres meses, se sientan cómodxs cargando y analizando datos arbitrarios (para que no les tengan miedo a los datos nuevos), e idealmente creando modelos a partir de éstos. 
