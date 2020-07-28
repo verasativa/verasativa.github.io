@@ -22,8 +22,7 @@ title: Vera Sativa
 email: no@spam.com
 repository: veras/veras.github.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Científica de datos, investigadora y feminista. |
-  Data scientist, researcher and feminist.
+  Científica, ingeniera y profesora de datos. Entreno modelos, construyo pipelines y guio a profesionales que trabajan con datos.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://verasativa.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
