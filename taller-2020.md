@@ -10,7 +10,7 @@ redirect_from:
  - /TALLER-2020/
 ---
 
-![flyer](/assets/img/taller-2020.jpg)
+![flyer](/assets/img/taller-2020.png)
 
 ## _Aprende o profundiza ciencia de datos, trabajando con los datos y problemas que te interesan a ti._ 
 ### Segunda temporada
