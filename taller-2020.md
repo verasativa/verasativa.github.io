@@ -12,56 +12,74 @@ redirect_from:
 
 ## _Aprende o profundiza ciencia de datos, trabajando con los datos y problemas que te interesan a ti._ 
 
-## ¿Que es?
-### Horarios
+### Horario
+Tres sábados al mes, desde las 10:15 a las 13:15 hrs.
 
-3 Sábados al mes, desde las 10:15 a las 13:15 (3 hrs)
-
-Inicio de clases: Sábado 30 de noviembre.
+Inicio: sábado 30 de noviembre
 
 ### Lugar
-A un cuadra de metro escuela militar (mi pega).
-
-### Pago
-50k al mes. Habrán becas. Mi idea no es hacerme rica, sino más bien afirmar tu compromiso de asistir y estudiar.
-
-#### Becas
-50% estudiantes, cesantes u otros casos especiales.
+A un cuadra de metro escuela militar
 
 ### Público objetivo
-El taller esta dirigido a tod@s quienes quieran estudiar ciencia de datos, no necesariamente ingenieros, son especialmente bienvenidos quienes vengas desde otras disciplinas.
+Todxs quienes quieran estudiar ciencia de datos, no necesariamente ingenierxs. 
 
-### Programa / metodología
-#### Trabajo práctico
-En mi experiencia, sólo haciendo se aprende (aunque haya detenerse estudiar la teoría relevante), por esto cada estudiante trabajará con sus propios datos, sus propios problemas y a su propio nivel.
+Serán especialmente bienvenidxs quienes vengan de otras disciplinas.
 
-#### Pocas personas trabajando cada una a su nivel
-Trabajar en un grupo pequeño (4 a 6 estudiantes idealmente) nos permitirá hacerlo cada uno a su nivel, por tanto no importa si quieres empezar aprendiendo a usar pandas, o quieres superar el estado del arte implementando GPT-2 en español usando un cluster multi-GPU.
+### Pago
+50 mil al mes. 
 
-Si tienes muchas ganas de aprender eres bienvenidx.
+Habrá becas: 50% estudiantes, cesantes u otros casos especiales.
 
-#### Objetivo base / currículo mínimo
-Para lxs novatxs, me gustaría que de uno a tres meses se sientan comodxs cargando y analizando datos arbitrarios (que no le tenga miedo a datos nuevos) e idealmente modelando. Más formalmente los capitulos 2, 3 y 5 al 11 de [Python for Data Analysis, 2nd Edition](https://www.oreilly.com/library/view/python-for-data/9781491957653/).
+### Duración
+La idea es que el taller funcione como una escuela permanente. El tiempo mínimo de permanencia es de tres meses. 
 
-#### Lineamientos éticos
-Trabajo en una empresa que pone el limite en no identificar individuos, me gusta el motto _don’t be evil_ y tengo a [Cathy O'Neil](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) en mi salva pantallas.
 
-Hagamos ciencia de datos observando la moralidad de nuestros actos, los sesgos que podríamos estar amplificando y la privacidad de las personas tras los datos.
 
-#### Foco en python 3
-Mi formación es en python, por tanto si quieres profundizar tu R, poco te podré ayudar en tu código.
+## Objetivos/metodología
+
+### Trabajo práctico
+En mi experiencia, se aprende mejor haciendo (aunque haya que detenerse a estudiar la teoría relevante). Por esto, cada estudiante trabajará con sus propios datos, sus propios problemas y a su propio nivel.
+
+### Pocas personas trabajando, cada una en su nivel
+Trabajar en un grupo pequeño (4 a 6 estudiantes idealmente) permitirá que cada unx avance desde su nivel y a su propio ritmo. 
+
+Si tienes muchas ganas de aprender eres bienvenidx. Si eres novat@, puedes empezar aprendiendo pandas (la herramienta básica de Data science) y si, en cambio, eres experimentadx y lo que quieres es superar el estado del arte implementando GPT-2 en español usando un cluster multi-GPU, podemos trabajar junt@s también. 
+
+### Currículo mínimo
+El objetivo, para lxs novatxs, es que, antes de completar los primeros tres meses, se sientan cómodxs cargando y analizando datos arbitrarios (para que no les tengan miedo a los datos nuevos), e idealmente creando modelos a partir de éstos. 
+
+Para este objetivo, utilizaremos los capítulos 2, 3 y 5 al 11 de [Python for Data Analysis, 2nd Edition](https://www.oreilly.com/library/view/python-for-data/9781491957653/).
+
+### Foco en python 3
+Mi formación es en python, por tanto si quieres profundizar tu R, poco te podré ayudar con el código.
+
+
 
 ## Requisitos
-### Leer inglés (idealmente escribir también)
-La documentación de las librerías, los libros de teoría básica y los papers de técnicas contemporáneas, están todos en ingles. Necesitamos que puedas leerlos.
 
-### Venir con tu computador
-Llega con jupyter lab instalado (te mandaré un link a algún tutorial de cómo hacerlo de en caso de que seas aceptad@.
+### Leer en inglés 
+La documentación de las librerías, los libros de teoría básica y los papers de técnicas contemporáneas, están todos en inglés. Necesitamos que puedas leerlos.
 
-## Postula
-No sólo se trata de quedarse con los más estudiosos, sino también de también de formar un grupo diverso en perspectivas e intereses.
+### Traer tu computador
+Computador con jupyter lab instalado (te mandaré un link a un tutorial de cómo hacerlo en caso de ser aceptadx).
 
-El te invito a tomarte unos minutos en el formulario de postulación, responderé directamente a todos quienes postulen independiente de la aceptación.
+### Compromiso  
+Compromiso a asistir a todas las sesiones, estudiar y observar los lineamientos éticos de nuestro trabajo.  
+
+
+## Lineamientos éticos
+En el trabajo con datos, observaremos siempre las implicancias morales de nuestros actos, atenderemos a los sesgos culturales que podríamos estar amplificando y cuidaremos la privacidad de las personas. 
+
+La empresa donde trabajo (donde se llevará a cabo el taller) tiene como principio no identificar nunca a los individuos detrás de los datos. 
+
+Me gusta el motto _don’t be evil_ y tengo a [Cathy O'Neil](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) en mi salvapantallas.
+
+
+
+## Postula 
+Te invito a tomarte unos minutos completando el formulario de postulación. 
+No sólo buscamos incorporar a lxs más estudiosxs, sino sobre todo formar un grupo diverso en perspectivas e intereses.
+Responderé directamente a todxs quienes postulen independiente de la aceptación.
 
 
 <div class="cognito">
