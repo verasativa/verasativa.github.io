@@ -42,9 +42,16 @@ social:
     share_title:
     share_link:
 
-  - icon:	book
-    url:	/data-science-cheat-book/
-    desc:	Cheat Book
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/verasativa/
+    desc:	LinedIn
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:    book
+    url:    /data-science-cheat-book/
+    desc:    Cheat Book
     share_url:
     share_title:
     share_link:
