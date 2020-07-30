@@ -1,59 +1,57 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Vera Sativa
-email: no@spam.com
-repository: veras/veras.github.io
-description: >- # this means to ignore newlines until "baseurl:"
-  Científica, ingeniera y profesora de datos. Entreno modelos, construyo pipelines y guio a profesionales que trabajan con datos.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://verasativa.com" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-og_default_img: /assets/img/social.jpg
-github_username:  veras
-timezone: Americas/Santiago
-excerpt_separator: <!--more-->
-
 # Build settings
-theme: jekyll-theme-hacker
 plugins:
-  - jekyll-feed
+  - jemoji
+  - jekyll-paginate
   - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Site settings
+title: Vera Sativa
+description: > # this means to ignore newlines until "email:"
+   Científica, ingeniera y profesora de datos. Entreno modelos, construyo pipelines y guio a profesionales que trabajan con datos.
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/vs_logo.png"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/chilewic.jpg"
+
+# name: 'Dirk Fabisch'
+author: 'Vera Sativa'
+author_image: "/assets/images/avatar.jpeg"
+og_default_img: "/assets/images/avatar.jpeg"
+timezone: Americas/Santiago
+paginate:	10
+
+url: "https://verasativa.com" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+#twitter_handle: '@dirkfabisch'
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+
+
+  - icon:	github
+    url:	https://github.com/verasativa/
+    desc:	Github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	book
+    url:	/data-science-cheat-book/
+    desc:	Cheat Book
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	graduation-cap
+    url:	/taller-2020/
+    desc:	Escuela
+    share_url:
+    share_title:
+    share_link:

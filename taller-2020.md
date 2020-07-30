@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Escuela casera de ciencias de datos con metodología _trae tu propio proyecto_
-image: "/assets/img/taller-2020.jpg"
+layout: page
+title: Escuela casera de ciencias de datos
+image: "/assets/img/taller-2020.png"
 description: Aprende o profundiza ciencia de datos, trabajando con los datos y problemas que te interesan a ti.
 permalink: /taller-2020/
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
  - /taller-2019/
  - /TALLER-2020/
 ---
-
-![flyer](/assets/img/taller-2020.png)
 
 ## _Aprende o profundiza ciencia de datos, trabajando con los datos y problemas que te interesan a ti._ 
 ### Segunda temporada
