@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Escuela casera de ciencias de datos
-image: "/assets/img/taller-2020.png"
+image: "/assets/img/IMG_7689.JPG"
 description: Aprende o profundiza ciencia de datos, trabajando con los datos y problemas que te interesan a ti.
 permalink: /taller-2020/
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
  - /taller-2019/
  - /TALLER-2020/
 ---
-
+![Flyer escuela 2020](/assets/img/taller-2020.png)
 ## _Aprende o profundiza ciencia de datos, trabajando con los datos y problemas que te interesan a ti._ 
 ### Segunda temporada
 
@@ -23,7 +23,9 @@ Trabajaremos en modo mob coding, compartiendo la pantalla via google meet, en se
 El trabajo se realizará una vez a la semana en un horario que acordemos entre los participantes. Por ahora propongo Martes o Jueves 17:00 a 20:30, o sabado 10:30 a 14:00.
 
 ### Lugar
-Mientras haya pandemia: google meet. Si se puede, feliz de invitarlos a un data camp en el verano 2021 a mi casa en Chiloé. 
+Mientras haya pandemia: google meet.
+
+Si se puede, feliz de invitarlos a un data camp en el verano 2021 a mi casa en Chiloé. 
 
 ### Tarifa
 200 mil pesos / mes.
