@@ -11,7 +11,8 @@ email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/vs_logo.png"
 float_logo: true # true, false (default)
-
+kramdown:
+  html_to_native: true
 # blog cover
 cover: "/assets/images/chilewic.jpg"
 
@@ -52,6 +53,13 @@ social:
   - icon:    book
     url:    /data-science-cheat-book/
     desc:    Cheat Book
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:    podcast
+    url:    /STEM.queer/
+    desc:    Podcast
     share_url:
     share_title:
     share_link:
