@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: workshop
 title: Escuela casera de ciencias de datos
 image: "/assets/img/IMG_7689.JPG"
 description: Aprende o profundiza ciencia de datos, trabajando con los datos y problemas que te interesan a ti.
@@ -44,20 +44,22 @@ Habrá becas parciales para estudiantes, cesantes y otros casos especiales (est�
 ### Público objetivo
 Son cada vez más amplios los ámbitos profesionales que requieren manejo de grandes cantidades de datos y estoy convencida que el trabajo interdisciplinario enriquece el aprendizaje, por lo que son bienvenidos todos, todas y todes quienes quieran aprender ciencia de datos, sin importar su formación académica o experiencia previa en programación. En la versión anterior de esta escuela participaron: una arquitecta, una arqueóloga, un físico, una ingeniera, un economista y una escolar. Y sin duda las diversas perspectivas enriquecieron el trabajo grupal. Lo fundamental es el compromiso con la participación, el estudio y por sobretodo: escribir código. Si tienes muchas ganas de aprender eres bienvenido.
 
-### Programa / metodología
-#### Trabajo práctico personalizado
+{% include testimonials.html %}
+
+## Programa y metodología
+### Trabajo práctico personalizado
 El trabajo de esta escuela es extremadamente personalizado. Es por esto que te invito a trabajar en proyectos que actualmente estés desarrollando en tu trabajo, estudios o hobbies. Así, cuando sea necesario, el aprendizaje se dirigirá a la búsqueda de soluciones específicas a tus desafíos profesionales. 
 En mi experiencia, sólo haciendo se aprende. Por ello, aunque nos detendremos a estudiar la teoría relevante, el fuerte del trabajo será práctico. Desde tu propio nivel, iremos planteándonos metas y buscando caminos para alcanzarlas. 
 No importa si quieres aprender lo básico de python para el análisis de datos, estás buscando soluciones para tu trabajo profesional o necesitas apoyo para tu tesis doctoral. La metodología personalizada permite que, trabajando en grupos pequeños, cada cual avance desde su propio nivel. 
 Si te interesa aprender ciencia de datos y no tienes proyecto propio, no es problema: te ofreceremos distintos problemas y datasets para empezar. 
 
-#### Objetivo base / currículo mínimo
+### Objetivo base / currículo mínimo
 Para quienes sean principianes, el objetivo es que en tres meses se sientan comodida cargando y analizando datos arbitrarios (datos nuevos) e idealmente que puedan crear modelos.  Más formalmente los capitulos 2, 3 y 5 al 11 de [Python for Data Analysis, 2nd Edition](https://www.oreilly.com/library/view/python-for-data/9781491957653/).
 
-#### Lineamientos éticos
+### Lineamientos éticos
 La invitación es a observar la moralidad de nuestro trabajo con datos, los sesgos que podríamos estar amplificando y la importancia crucial de proteger la privacidad de las personas.
 
-#### Foco en python 3
+### Foco en python 3
 Mi formación es en python, por tanto si quieres profundizar tu R, julia o STATA, poco te podré ayudar en tu código.
 
 ## Requisitos
@@ -69,7 +71,7 @@ La documentación de las librerías, los libros de teoría básica y los papers 
 - Te debes conectar desde un lugar relativamente silencioso, e idealmente con audifonos, a la clase semanalmente.
 - Opcional: Si trabajas con 2 pantallas es más comodo para poner a google meet en una y el código en otra. (tambien se puede hacer usando un celular o tablet)
 
-## Postula
+## Postulación
 Te invito a tomarte unos minutos en el formulario de postulación, responderé directamente a todos quienes postulen independiente de la aceptación.
 
 

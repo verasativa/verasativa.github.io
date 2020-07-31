@@ -70,3 +70,41 @@ social:
     share_url:
     share_title:
     share_link:
+
+testimonials:
+  - name: Maricel González
+    title: Ingeniero en Gerencia de Desarrollo IDIEM, Universidad de Chile
+    avatar: /assets/img/testimonials/maricel.jpg
+    text: "Asistí a la Escuelita de Datos que creó e impartió Vera. Un espacio genial para poder aprender de la ciencia de datos mediante la experiencia, en un grupo pequeño, donde Vera nos guiaba de forma personalizada según el nivel de cada uno de los alumnos, y en particular el mío era bajo, pero se va perdiendo el miedo a avanzar y aprender y eso está buenísimo. La experiencia de Vera es fundamental para ir aprendiendo en este contexto, ella es realmente una especialista muy muy muy avanzada, pero tiene la empatía para ir enseñando a personas que estamos recién adentrándonos en este proceso de los datos. Recomendable al 100% y más!!"
+
+  - name: Dafne Godoy
+    title: Estudiante ingeniería Universidad Diego Portales
+    avatar: /assets/img/testimonials/dafne.jpg
+    text: "Recomiendo sin dudar a Vera, ella fue mi profesora y me ayudó a entrar con más confianza a estudiar ingeniería informática.
+      Aprendí mucho en poco tiempo, llegué sin conocimientos a la escuelita y me encuentro súper agradecida por haber asistido, sin su apoyo y constante entusiasmo, creo que no hubiera tenido los mismos resultados, me resolvió y explicó cada duda y si no le entendía no tenía problemas en volver a explicarme. Se genera un espacio en donde puedes estar completamente cómoda.
+      Si es que las condiciones me permitieran volver a sus clases, sin duda asistiría."
+
+  - name: Luis Rafael Diaz
+    title: Asesor en protección radiológica & científico de datos
+    avatar: /assets/img/testimonials/luisrafael.jpg
+    text: "Tuve la oportunidad de participar en la escuela de datos que dirige vera,  en mi estancia aprendí a utilizar nuevas técnicas para la manipulacion de datos numéricos y categóricos, preprocesamiento , visualización y generación de modelos con Machine Learning, ademas de comenzar  a interactuar con modelos del estado del arte en  procesamiento del lenguaje natural . Ella emplea una metodología personalizada y se adapta al nivel de conocimientos de los estudiantes,  haciendo posible que haya estudiantes con diferentes niveles,  donde cada estudiante trabaja en el tema de su interés con proyectos personalizados.  Es una persona con una gran capacidad técnica y mística de trabajo, apasionada por los datos  y una gran persona razón por la cual  la recomiendo ampliamente."
+
+  - name: Camila F. Vera Villa
+    title: Data Science and Artificial Intelligence learner | BIM Architect and Urbanist | Teacher
+    avatar: /assets/img/testimonials/camila.jpg
+    text: "Fui alumna de Vera en la Escuela casera de ciencia de datos, en donde pude apreciar la profundidad y versatilidad de sus conocimientos, siempre con una actitud muy positiva y constructiva nos porponía avanzar en nuestros propios desafíos, guiándonos desde su experiencia.
+           Personalmente, creo que la Escuela de Vera es una excelente oportunidad para quienes quieran iniciarse o desarrollarse en ciencia de datos, ya que la metodología de aprender haciendo permite construir el aprendizaje de acuerdo a las capacidades, objetivos y tiempo de cada uno. Recomendada 100%!"
+
+  - name: Leo Prieto
+    title: Founder & CEO at Odd Industries
+    avatar: /assets/img/testimonials/leo.jpg
+    text: "Vera is a brilliant professional with a positive and proactive attitude. At Odd Industries her role was critical for advancing the machine learning pipelines to accelerate and improve the success rate of our developments. She has the vision to propose what needs to be done and the capacity to execute on that vision, always taking into consideration the needs of the team and the organization. I am confident that any team she joins will improve not only with the technical knowledge she openly shares, but also with the fact that she makes sure that the team trusts, respects and cares for each other."
+
+  - name: Kerri Rapes
+    title: Chief Data Officer at Odd Industries
+    avatar: /assets/img/testimonials/kerri.jpg
+    text: "I first met Vera when she joined our AI development team at Odd Industries. I was Cheif Data Officer at the time while she was brought on to fill the very much needed roll of ML-Ops Developer.
+
+           Vera began handling improving the deployment process from day one. Her talent and willingness to learn is one of her strongest assets and has played a critical role in the success of our development team.
+
+           I would nominate Vera to any development project. Her strong understanding of cloud technologies, eagerness to learn, and dependability make her an absolute asset."
