@@ -19,7 +19,7 @@ redirect_from:
 | Duración de la clase semanal | ~3 horas |
 | Horas de trabajo en casa     | 4+ horas semanalmente |
 | Mensualidad                  | 200.000 CLP |
-| Requisitos                  | Leer ingles y postular en formulario más abajo |
+| Requisitos                  | Leer inglés y postular en formulario más abajo |
  
 ## ¿Qué es?
 La escuela casera de datos es un programa de estudios personalizado. Se organiza en grupos de tres personas donde cada cual trabaja en sus propios proyectos, de acuerdo a su nivel de experiencia, intereses y necesidades profesionales. 
