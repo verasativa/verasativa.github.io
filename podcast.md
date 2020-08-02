@@ -5,7 +5,7 @@ image: "/assets/img/S02E02.png"
 description: STEM.queer() es un podcast sobre ciencia, tecnología, ingeniería, matemática y los queer en más amplio sentido de la palabra. Episodios cada 2 semanas.
 permalink: /STEM.queer/
 ---
-STEM.queer() es un podcast sobre ciencia, tecnología, ingeniería, matemática y los queer en más amplio sentido de la palabra.
+STEM.queer() es un podcast sobre ciencia, tecnología, ingeniería, matemática y lo queer en más amplio sentido de la palabra.
 
 En esta segunda temporada, me estoy concentrado en entrevistas academicas.
 
