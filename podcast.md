@@ -20,7 +20,7 @@ Episodios cada 2 semanas.
 <a class="icon-spotify" href="https://open.spotify.com/show/5U9HsxMPbxg8EZwxMlGtJN">
   <i class="fa fa-spotify fa-5x"></i>
 </a>
-<a class="icon-youtube" href="https://www.youtube.com/channel/UCZF-U_7uAAmY4Z2kuMb59bg">
+<a class="icon-youtube" href="https://www.youtube.com/c/STEMqueer">
   <i class="fa fa-youtube fa-5x"></i>
 </a>
 </div>
