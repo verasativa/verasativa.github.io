@@ -5,9 +5,10 @@ permalink: /about/
 image: /assets/img/IMG_7831.JPG
 ---
 # Sobre mi 
-Soy una científica de datos con experticia en deep learning, y en el ecosistema científico y de aprendizaje automatizado de python. Tengo 15 años de experiencia en emprendimientos tecnológicos y desarrollo. Me apasiona la visión computacional y el procesamiento del lenguaje natural.
+Soy una científica de datos senior con experticia en deep learning y MLops. Tengo 15 años de experiencia en emprendimientos tecnológicos, desarrollo de software y gestión de infraestructura IT. Produzco el podcast [STEM.queer()](/STEM.queer/), y me interesan los vehiculos autonomos.
+
 # About me
-I'm a data Scientist with expertise in deep learning, and python science and machine learning ecosystem. I have 15 years experience in tech entrepreneurship and development. And I'm passioned about computer vision and natural language processing models.
+I'm a senior data scientist with expertise in deep learning and MLops. I have 15 years experience in tech entrepreneurship, software development and infraestructure management. I make a podcast named [STEM.queer()](/STEM.queer/), and I'm interested on autonomous vehicles.
 
 ````hola @ verasativa.com```` 
 
