@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Acerca de mi / About me
+title: Acerca de mí / About me
 permalink: /about/
 image: /assets/img/IMG_7831.JPG
 ---
-# Sobre mi 
+# Sobre mí 
 Soy una científica de datos senior con experticia en deep learning y MLops. Tengo 15 años de experiencia en emprendimientos tecnológicos, desarrollo de software y gestión de infraestructura IT. Produzco el podcast [STEM.queer()](/STEM.queer/), y me interesan los vehículos autónomos.
 
 # About me
