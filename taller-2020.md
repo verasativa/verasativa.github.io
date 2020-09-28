@@ -52,7 +52,9 @@ Una vez superada la pandemia habrá data camps intensivos en Chiloé. Espero que
 - Se puede trabajar en proyectos institucionales privativos y confidenciales
 
 #### Becas
-Habrá becas parciales para estudiantes, cesantes y otros casos especiales (está en el formulario de postulación).
+Quedan 2 becas parciales disponibles para mujeres o personas no-binarias del archipielago de Chiloé.
+
+(Mencionalo en el campo correspondiente del formulario de postulación)
 
 ### Público objetivo
 Son cada vez más amplios los ámbitos profesionales que requieren manejo de grandes cantidades de datos y estoy convencida que el trabajo interdisciplinario enriquece el aprendizaje, por lo que son bienvenidos todos, todas y todes quienes quieran aprender ciencia de datos, sin importar su formación académica o experiencia previa en programación. En la versión anterior de esta escuela participaron: una arquitecta, una arqueóloga, un físico, una ingeniera, un economista y una estudiante de cuarto medio. Y sin duda las diversas perspectivas enriquecieron el trabajo grupal. Lo fundamental es el compromiso con la participación, el estudio y por sobretodo: __escribir código__. Si tienes muchas ganas de aprender eres bienvenide.
