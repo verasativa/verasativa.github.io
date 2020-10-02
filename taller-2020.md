@@ -18,8 +18,8 @@ redirect_from:
 | Tamaño de grupos             | 3 personas máximo |
 | Duración de la clase semanal | ~3 horas |
 | Horas de trabajo en casa     | 4+ horas semanalmente |
-| Mensualidad personas         | 80.000 CLP |
-| Mensualidad empresas         | 320.000 CLP |
+| Mensualidad personas         | 120.000 CLP |
+| Mensualidad empresas         | 240.000 CLP |
 | Requisitos                  | Leer inglés y postular en formulario más abajo |
  
 ## ¿Qué es?
