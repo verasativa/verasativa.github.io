@@ -48,4 +48,4 @@ __Podemos ver los componentes:__
  - O1: Lunar diurnal
 
 ## Conclusiones
-Parece ser que el shoa, no utiliza los componentes de periodo corto para el calculo de las mareas de Castro. Sería interesante tener acceso a los datos de medición históricos, y probar la efectividad de un modelado con estos componentes, pues teóricamente, siendo componentes de aguas bajas debieran impactar particularmente por las condiciones de mar interior del archipiélago de Chiloé.
+Parece ser que el shoa, no utiliza los componentes de periodo corto para el calculo de las mareas de Castro. Sería interesante tener acceso a los datos de medición históricos, y probar la efectividad de un modelado con estos componentes, pues teóricamente, siendo componentes de aguas bajas debieran impactar particularmente por la condicion de mar interior del archipiélago de Chiloé.
