@@ -38,14 +38,14 @@ Una vez superada la pandemia habrá data camps intensivos en Chiloé. Espero que
 
 ### Tarifa
 #### Estudiantes independientes
-80.000 CLP al mes
+120.000 CLP al mes
 
 - Clases con otros estudiantes independientes
 - Horarios de acuerdo a todo el grupo
 - No se pueden traer proyectos confidenciales
 
 #### Estudiantes empresas
-320.000 CLP al mes
+240.000 CLP al mes
 
 - Clases exclusivas por institución
 - Horarios a la medida
