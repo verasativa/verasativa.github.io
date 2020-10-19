@@ -3,7 +3,7 @@ layout: post
 title:  "Haciendo ingenería inversa a las mareas de Castro, Chiloé"
 date:   2020-08-07 12:11 -0400+
 image: "/assets/img/posts/mareas-castro.png"
-tags: Furrier señales
+tags: Fourier señales
 ---
 ## Introducción
 A causa de la importancia de la transformación de Lorentz para la relatividad especial, arrastraba un interés general en las transformaciones matemáticas hace unos meses. Pero siendo mi orientación de aprendizaje extremadamente practica, sentía que necesitaba un ejercicio practico, para aprender algo valioso.
@@ -26,18 +26,18 @@ Hay astrónomos que hablan del sistema bi-planetario, pues nuestra luna es inusu
 ![La marea mi vecina](/assets/img/posts/marea.jpg)
 
 ## El trabajo
-Desde esa localidad, historia, cosmología y espiritualidad, le inqué el diente a las matemáticas con ganas.
+Desde esa localidad, historia, cosmología y espiritualidad, le hinqué el diente a las matemáticas con ganas.
 ### El origen de los datos
 En Chile, el [shoa](shoa.cl/php/mareas.php) (equivalente al noaa de estados unidos), desde Valparaíso, entrega predicciones de mareas para una docena de puertos del país.
 Esas predicciones están literalmente copiadas/pegadas en un excel, que cargaremos en python.
 ### Procesado
-Después de ordenar los datos, sus columnas y revisarlos que fueran coherentes (siempre siempre siempre hay que revisar). Hice una transformación de furrier sobre estos, y extraje sus puntos de frecuencia.
+Después de ordenar los datos, sus columnas y revisarlos que fueran coherentes (siempre siempre siempre hay que revisar). Hice una transformación de fourier sobre estos, y extraje sus puntos de frecuencia.
 
 Encontré los elementos constituyentes de la predicción, lo que fue un ingeniería inversa de hecho sobre el proceso del shoa, revelando los "acorta caminos" que toman.
 
 Si quieres seguir el proceso completo por ti misme, dejé [disponible el notebook en un gist](https://gist.github.com/verasativa/c7be95ab77652c7806ba3aedd749ee98) 
 
-![Transformación de Furrier a mareas de Castro, Chiloé](/assets/img/posts/furrier-mareas-castro.png)
+![Transformación de Fourier a mareas de Castro, Chiloé](/assets/img/posts/fourrier-mareas-castro.png)
 
 __Podemos ver los componentes:__
 
