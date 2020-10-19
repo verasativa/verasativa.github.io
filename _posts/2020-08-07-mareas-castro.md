@@ -11,7 +11,7 @@ A causa de la importancia de la transformación de Lorentz para la relatividad e
 ## La historia mareas
 La predicción de las mareas es un problema que los humanos enfrentamos desde la pre-historia. En 1609 Johannes Kepler sugirió acertadamente que las mareas eran producto de la fuerza de gravedad lunar, en 1619 Galileo Galilei, en respuesta, especuló erradamente que eran producto de la rotación de la tierra al rededor del sol.
  
-En 1776 Pierre-Simon Laplace formula un set de ecuaciones en derivadas parciales, describiendo las mareas como un flujo barotrópico laminar de 2 dimensiones. Aun así, la predicción siguió siendo problemática, hasta que, en 1860 William Thomson le aplicó análisis de fourrier a las mediciones empíricas del nivel del mar, realizando un análisis de harmónicos al movimiento de las mareas.
+En 1776 Pierre-Simon Laplace formula un set de ecuaciones en derivadas parciales, describiendo las mareas como un flujo barotrópico laminar de 2 dimensiones. Aun así, la predicción siguió siendo problemática, hasta que, en 1860 William Thomson le aplicó análisis de fourrier a las mediciones empíricas del nivel del mar, realizando un análisis de armónicos al movimiento de las mareas.
 
 ![Fourier transform of tides measured at Ft. Pulaski in 2012. From wikipedia: Theory of tides](/assets/img/posts/tides_fourier_transform.png) 
 
