@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Haciendo ingenería inversa a las mareas de Castro, Chiloé"
+title:  "Haciendo ingeniería inversa a las mareas de Castro, Chiloé"
 date:   2020-08-07 12:11 -0400+
 image: "/assets/img/posts/mareas-castro.png"
 tags: Fourier señales
