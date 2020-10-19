@@ -49,3 +49,12 @@ __Podemos ver los componentes:__
 
 ## Conclusiones
 Parece ser que el shoa, no utiliza los componentes de periodo corto para el calculo de las mareas de Castro. Sería interesante tener acceso a los datos de medición históricos, y probar la efectividad de un modelado con estos componentes, pues teóricamente, siendo componentes de aguas bajas debieran impactar particularmente por la condicion de mar interior del archipiélago de Chiloé.
+
+## Actualización Octubre:
+Después de hacer el trabajo de naturalista del siglo XVIII, pasando horas observando el mar tanto en las horas que el shoa predice la marea más alta y como las baja. Y hasta haber puesto mi propia marca.
+
+![Playa en marea baja con una vara marcando la marea baja](/assets/img/posts/marea-marca.jpg)
+
+y he encontrado **hasta 1 hora de diferencia** con las predicciones del shoa.
+
+El siguiente paso es realizar mediciones propias, estoy estudiando alternativas de sensores que me permitan registrar la marea 24/7. 
