@@ -35,9 +35,9 @@ Después de ordenar los datos, sus columnas y revisarlos que fueran coherentes (
 
 Encontré los elementos constituyentes de la predicción, lo que fue un ingeniería inversa de hecho sobre el proceso del shoa, revelando los "acorta caminos" que toman.
 
-Si quieres seguir el proceso completo por ti misme, dejé [disponible el notebook en un gist](https://gist.github.com/verasativa/c7be95ab77652c7806ba3aedd749ee98) 
+Si quieres seguir el proceso completo por ti misme, dejé [disponible el notebook en un gist](https://gist.github.com/verasativa/c7be95ab77652c7806ba3aedd749ee98)
 
-![Transformación de Fourier a mareas de Castro, Chiloé](/assets/img/posts/fourrier-mareas-castro.png)
+![Transformación de Fourier a mareas de Castro, Chiloé](/assets/img/posts/fourier-mareas-castro.png)
 
 __Podemos ver los componentes:__
 
