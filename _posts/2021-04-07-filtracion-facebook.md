@@ -46,6 +46,7 @@ Más allá de todos los insights sociológicos y culturales, lo importante es di
 
 Para revisar si estás en esta (u otra) base de datos  filtrada, búscate en [haveibeenpwned](https://haveibeenpwned.com/)
 
+_Investigación y texto original de la [Escuelita Chilota](https://www.linkedin.com/company/escuela-casera/) por [Vera Sativa](/about) e [Ignacia Taré](https://www.linkedin.com/in/lamujernueva/)_
 
 **
 Algunos otros “trabajos” interesantes por ubicación (revisar los gráficos adjuntos).
