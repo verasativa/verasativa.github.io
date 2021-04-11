@@ -3,8 +3,10 @@ layout: post
 title:  "¿Cómo se refleja Chile a través de las redes sociales? Primer acercamiento a la filtración masiva de datos de Facebook"
 date:   2021-04-08 22:04 -0400+
 image: "/assets/img/posts/facebook/shishigang.jpeg"
-tags: Fourier señales
 author: "Vera Sativa e Ignacia Taré"
+permalink: /2021/04/09/filtracion-facebook.html
+redirect_to:
+ - http://escuelitachilota.cl/2021/04/09/filtracion-facebook.html
 ---
 En diciembre de 2019, más de 267 millones de usuarios de Facebook vieron vulnerados sus datos: en la filtración estaban teléfonos, emails, nombres completos, y más. La información que esos usuarios configuraron en su perfiles, tanto público como privado, de esta red social se vio expuesta, primero a la venta en la darknet, y recientemente descargable en la internet general. 
 
