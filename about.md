@@ -4,12 +4,14 @@ title: Acerca de mí / About me
 permalink: /about/
 image: /assets/img/IMG_7831.JPG
 ---
-# Sobre mí 
-Soy una científica de datos senior con experticia en deep learning y MLops. Tengo 15+ años de experiencia en emprendimientos tecnológicos, desarrollo de software y gestión de infraestructura IT. Actualmente estoy (felizmente) dedicada enseñar y guiar estudiantes, desde [la escuelita chilota](/taller-2020/). Ocacionalmente podcasteo en [STEM.queer()](/STEM.queer/).
+# Sobre mí
+Soy una tecnóloga con más de 20 años de trayectoria; mis raíces profesionales se hunden en el siglo pasado, cuando Windows NT 3.51 era la frontera. Mi camino ha evolucionado desde la ingeniería de software, el Deep Learning y MLOps hacia la Gobernanza y Privacidad, donde hoy implemento marcos de protección de datos personales.
+
+Mi práctica es técnica y política: fabrico drones, persigo la soberanía tecnológica y defiendo activamente los derechos fundamentales ligados a la salud y la autonomía ciudadana. Asimismo, practico el acto educativo de cuando en cuando en la [Escuelita Chilota](https://escuelitachilota.cl).
 
 # About me
-I'm a senior data scientist with expertise in deep learning and MLops. I have 15+ years experience in tech entrepreneurship, software development and infraestructure management. I'm currently (and happily) dedicated to teaching and guiding students, at [Chiloé's little school](/taller-2020/). I podcast some times at [STEM.queer()](/STEM.queer/).
+I am a technologist with over 20 years of experience; my professional roots reach back to the last century, when Windows NT 3.51 was the frontier. My career has evolved from software engineering, Deep Learning, and MLOps toward Governance and Privacy, where I currently implement personal data protection frameworks.
+
+My practice is both technical and political: I build drones, pursue technological sovereignty, and actively defend fundamental rights linked to health and citizen autonomy. I also engage in the act of teaching from time to time at [Escuelita Chilota](https://escuelitachilota.cl).
 
 ````hola @ verasativa.com```` 
-
-![Vera con Devee, la mascota de dvc.org](/assets/img/SRYD3953.JPG)
