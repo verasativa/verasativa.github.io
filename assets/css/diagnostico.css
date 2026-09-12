@@ -1,0 +1,249 @@
+/* Diagnóstico Ley 21.719 · formulario previo.
+   Self-contained: no external fonts, no CDN, no tracking. The page tells the
+   visitor that nothing leaves their browser, so nothing may. Palette matches
+   the printed one-pager (one-pager.html) so both read as the same product. */
+
+:root {
+  --ink: #1a1a1a;
+  --accent: #1f4e5f;
+  --accent-dark: #163a47;
+  --soft: #b8c4c8;
+  --soft-bg: #f4f6f6;
+  --paper: #ffffff;
+  --muted: #5c6b70;
+  --warn-bg: #fdf6e8;
+  --warn-border: #d8b56a;
+  --max: 46rem;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--soft-bg);
+  color: var(--ink);
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+a { color: var(--accent); }
+
+.topbar { background: var(--accent); height: 6px; }
+
+.wrap {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 1.5rem 1.1rem 4rem;
+}
+
+.brand {
+  display: block;
+  margin: 1.2rem 0 0.6rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+}
+.brand:hover { color: var(--accent); }
+
+h1 {
+  font-size: 1.75rem;
+  line-height: 1.18;
+  color: var(--accent);
+  margin: 0.2rem 0 1rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: var(--accent);
+  margin: 2rem 0 0.5rem;
+}
+
+p { margin: 0 0 0.9rem; }
+
+.card {
+  background: var(--paper);
+  border: 1px solid var(--soft);
+  padding: 1.4rem 1.3rem;
+}
+
+/* --- progress ------------------------------------------------------------ */
+
+.progress { margin: 0 0 1.2rem; }
+.progress-label {
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 0.4rem;
+}
+.progress-track {
+  display: flex;
+  gap: 4px;
+}
+.progress-step {
+  flex: 1;
+  height: 5px;
+  background: var(--soft);
+}
+.progress-step.done { background: var(--accent); }
+
+/* --- teaching line ------------------------------------------------------- */
+
+.ensena {
+  border-left: 3px solid var(--accent);
+  background: var(--soft-bg);
+  padding: 0.8rem 1rem;
+  margin: 0 0 1.6rem;
+}
+.ensena p { margin: 0; }
+
+/* --- questions ----------------------------------------------------------- */
+
+.pregunta {
+  border: 0;
+  margin: 0 0 2rem;
+  padding: 0;
+}
+.pregunta legend {
+  padding: 0;
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+.pregunta.falta legend { color: #a8322a; }
+.pregunta.falta .opciones { border-left: 3px solid #a8322a; padding-left: 0.7rem; }
+
+.ayuda {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0.3rem 0 0;
+}
+
+.opciones { margin: 0.7rem 0 0; }
+
+.opcion {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  padding: 0.5rem 0.6rem;
+  margin: 0 0 2px;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+.opcion:hover { background: var(--soft-bg); }
+.opcion input { margin: 0.35rem 0 0; flex: none; width: 1.05rem; height: 1.05rem; accent-color: var(--accent); }
+.opcion.marcada { background: var(--soft-bg); border-color: var(--soft); }
+
+input[type="text"], textarea {
+  width: 100%;
+  font: inherit;
+  color: inherit;
+  padding: 0.55rem 0.6rem;
+  border: 1px solid var(--soft);
+  background: var(--paper);
+}
+input[type="text"]:focus, textarea:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+textarea { min-height: 6.5rem; resize: vertical; }
+
+.otro-input { margin: 0.3rem 0 0.6rem 2.2rem; max-width: 24rem; }
+.libre { margin: 0.9rem 0 0; }
+.libre label { display: block; font-size: 0.9rem; color: var(--muted); margin: 0 0 0.35rem; }
+
+.revela {
+  margin: 0.8rem 0 0;
+  padding: 0.8rem 1rem;
+  background: var(--warn-bg);
+  border-left: 3px solid var(--warn-border);
+  font-size: 0.95rem;
+}
+.revela p { margin: 0; }
+
+/* --- navigation ---------------------------------------------------------- */
+
+.nav {
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  margin: 1.8rem 0 0;
+  flex-wrap: wrap;
+}
+
+.btn {
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0.65rem 1.4rem;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+}
+.btn:hover { background: var(--accent-dark); border-color: var(--accent-dark); }
+.btn.secundario { background: transparent; color: var(--accent); }
+.btn.secundario:hover { background: var(--soft-bg); }
+.btn:focus-visible { outline: 3px solid var(--warn-border); outline-offset: 2px; }
+
+.aviso-falta {
+  color: #a8322a;
+  font-size: 0.92rem;
+  margin: 0.9rem 0 0;
+}
+
+/* --- summary ------------------------------------------------------------- */
+
+.resumen h2 { margin-top: 1.8rem; }
+.resumen ul { margin: 0 0 0.9rem; padding-left: 1.2rem; }
+.resumen li { margin: 0 0 0.35rem; }
+.resumen .destacado {
+  border-left: 3px solid var(--accent);
+  background: var(--soft-bg);
+  padding: 0.9rem 1rem;
+  font-weight: 700;
+  margin: 0 0 1.2rem;
+}
+.resumen .cita {
+  border-left: 3px solid var(--soft);
+  padding: 0.2rem 0 0.2rem 1rem;
+  color: var(--ink);
+  white-space: pre-wrap;
+}
+.resumen .nota-filtro {
+  border: 1px solid var(--soft);
+  background: var(--soft-bg);
+  padding: 1rem;
+  margin: 1.6rem 0 0;
+}
+
+.acciones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.6rem 0 0.8rem;
+}
+.acciones .btn { padding: 0.6rem 1rem; font-size: 0.95rem; }
+
+.pie {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0.6rem 0 0;
+}
+
+.copiado { color: var(--accent); font-weight: 700; font-size: 0.9rem; margin: 0.4rem 0 0; }
+
+/* --- print: only the summary, laid out like the one-pager ---------------- */
+
+@media print {
+  @page { size: letter; margin: 16mm; }
+  body { background: #fff; font-size: 10.5pt; }
+  .topbar, .brand, .acciones, .pie, .no-print { display: none !important; }
+  .wrap { max-width: none; padding: 0; }
+  .card { border: 0; padding: 0; }
+  .resumen .destacado, .resumen .nota-filtro { background: #fff; }
+  h1 { font-size: 18pt; }
+  h2 { font-size: 12pt; }
+  ul, li, p { page-break-inside: avoid; }
+}
