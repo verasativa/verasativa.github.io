@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}" />
+  <meta name="robots" content="{{ page.robots | default: 'index, follow' }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:type" content="website" />
+  <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
+  <link rel="shortcut icon" href="{{ "/assets/images/favicon.png" | prepend: site.baseurl }}" type="image/png"/>
+  <!-- No external stylesheets, fonts or analytics on this layout: pages using it
+       promise that nothing leaves the visitor's browser. Keep it that way. -->
+  <link rel="stylesheet" type="text/css" href="{{ page.stylesheet | prepend: site.baseurl }}" />
+</head>
+<body>
+  {{ content }}
+  <script src="{{ page.script | prepend: site.baseurl }}"></script>
+</body>
+</html>
